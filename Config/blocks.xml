@@ -1,0 +1,4 @@
+<configs>
+    <!-- adjusting from default of 63.0 -->
+    <set xpath="/blocks/block[@name='treeMasterGrowing']/property[@name='PlantGrowing.GrowthRate']/@value">2.0</set>
+</configs>
